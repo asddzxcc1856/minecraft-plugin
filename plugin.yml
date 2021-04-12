@@ -1,0 +1,7 @@
+name: Bossbarmessage
+version: ${project.version}
+main: me.luty.bossbarmessage.bossbarmessage.Bossbarmessage
+api-version: 1.16
+prefix: BossbarMessage
+authors: [ luty ]
+description: a bossbar plugin
